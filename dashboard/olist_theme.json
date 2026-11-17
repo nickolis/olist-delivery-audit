@@ -1,0 +1,44 @@
+{
+  "name": "Olist Delivery Audit",
+  "dataColors": [
+    "#5A6BC4",
+    "#12239E",
+    "#EE8F8F",
+    "#B0B0B0",
+    "#8CCB9B",
+    "#F6C177",
+    "#AEBBEA",
+    "#D9D9D9",
+    "#0A146B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#12239E",
+  "good": "#8CCB9B",
+  "neutral": "#F6C177",
+  "bad": "#EE8F8F",
+  "minimum": "#AEBBEA",
+  "center": "#5A6BC4",
+  "maximum": "#0A146B",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI",
+      "color": "#252423"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#252423"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#252423"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#252423"
+    }
+  }
+}
